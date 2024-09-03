@@ -1,16 +1,27 @@
-## Hi there 👋
+<img src="https://images.cooltext.com/5508531.png" width="419" height="68" alt="Ingeniero en TIC" /> <img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" />
 
-<!--
-**ManuelMtz098/ManuelMtz098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hola compañeros! 👋
 
-Here are some ideas to get you started:
+Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna ✨.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones ✨.
+
+
+Mis áreas de conocimiento son las siguientes:
+
+- 🔭 Conocimientos técnicos en electrónica
+- 🌱 Programación en C#, PHP y Javascript.
+- 👯 Programación web utilizando HTML, CSS, JS y Ajax.
+- 🤔 Conocimiento intermedio en redes de computadoras.
+- 📫 Programación de base de datos en lenguaje SQL en SGDB PHPMyAdmin y SQLserver.
+- 😄 Mantenimiento a equipo de cómputo.
+- 💬 Ingles 50%
+
+Experiencia laboral
+
+🔭 Auxiliar de sistemas, donde desempeñé las siguientes actividades:
+- 📲 Instalación de cámaras de seguridad CCTV.
+- ⚡ Diagnóstico, instalación, mantenimiento y configuración de equipo de cómputo. 
+- 🖥 Apoyo en la instalación de gabinetes e instalación de cableado de red.
+
+Contacto: manuel.sifuentes17@tectijuana.edu.mx :email:
