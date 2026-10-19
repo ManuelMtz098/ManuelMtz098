@@ -1,27 +1,60 @@
-<img src="https://images.cooltext.com/5508531.png" width="419" height="68" alt="Ingeniero en TIC" /> <img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" />
+# Hi, I'm Manuel Sifuentes 👋
 
-### Hola compañeros! 👋
+### Senior Full Stack Engineer · .NET, React & TypeScript
 
-Un gusto, soy Manuel Sifuentes, estudiante del Instituto Tecnológico de Tijauna ✨.
+I build business software from backend services and databases to web and mobile applications. Based in Tijuana, Mexico, I bring **6+ years of experience** delivering ERP, healthcare, and commerce platforms.
 
-Me encuentro estudiando Ingeniería en Tecnologías de la Informacióm y Comunicaciones ✨.
+My work includes payment integrations, messaging systems, production support, and CI/CD. I also create **Diora**, an independent multi-tenant B2B SaaS for customer relationships, conversations, and appointments.
 
+[Portfolio](https://manuelmartinezdev.com.mx) · [Email](mailto:mjsifuentesmartinez@gmail.com)
 
-Mis áreas de conocimiento son las siguientes:
+---
 
-- 🔭 Conocimientos técnicos en electrónica
-- 🌱 Programación en C#, PHP y Javascript.
-- 👯 Programación web utilizando HTML, CSS, JS y Ajax.
-- 🤔 Conocimiento intermedio en redes de computadoras.
-- 📫 Programación de base de datos en lenguaje SQL en SGDB PHPMyAdmin y SQLserver.
-- 😄 Mantenimiento a equipo de cómputo.
-- 💬 Ingles 50%
+## What I work on
 
-Experiencia laboral
+- **Business applications:** ERP modules, supplier portals, patient workflows, inventory, invoicing, and reporting.
+- **Backend engineering:** REST APIs, background processing, relational databases, authentication, and role-based permissions.
+- **Integrations:** payments, messaging, virtual consultations, and biometric devices.
+- **Product development:** taking features from design and implementation through deployment and production support.
 
-🔭 Auxiliar de sistemas, donde desempeñé las siguientes actividades:
-- 📲 Instalación de cámaras de seguridad CCTV.
-- ⚡ Diagnóstico, instalación, mantenimiento y configuración de equipo de cómputo. 
-- 🖥 Apoyo en la instalación de gabinetes e instalación de cableado de red.
+## Featured project — Diora
 
-Contacto: manuel.sifuentes17@tectijuana.edu.mx :email:
+**A workspace for businesses to manage customers, conversations, and appointments.**
+
+I designed and built Diora across its backend, web application, and mobile app, with a focus on tenant isolation and reliable integrations.
+
+- **CRM & appointments:** customer management, sales pipelines, and scheduling.
+- **Connected messaging:** WhatsApp Business, Instagram, and Messenger with tenant-specific connections.
+- **Payments:** Stripe Connect integration with verified webhooks and idempotent processing.
+- **Real-time communication:** authenticated Socket.IO updates and mobile push notifications.
+- **AI-assisted workflows:** conversation analysis and in-app actions through integrated LLM providers.
+
+**Built with:** React · TypeScript · NestJS · Prisma · PostgreSQL · React Native · Expo · Docker
+
+## Technology stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | C#, TypeScript, JavaScript, SQL |
+| Backend | ASP.NET Core, .NET, NestJS, Node.js, Hangfire |
+| Web & mobile | React, React Native, Expo, .NET MAUI |
+| Databases | SQL Server, PostgreSQL, MySQL |
+| Data access | Entity Framework, Dapper, Prisma |
+| Delivery & quality | Azure DevOps, CI/CD, Docker, Git, xUnit |
+| Security & integrations | JWT, OAuth 2.0, webhooks, Stripe Connect, Meta APIs |
+
+## Background
+
+Experience across manufacturing services, healthcare, and business operations at **North American Production Sharing, SIMNSA, and Grupo Xima**.
+
+B.S. in Information and Communications Technology Engineering, with a focus on Software Development — **Instituto Tecnológico de Tijuana**.
+
+**Languages:** Spanish — native · English — B2
+
+---
+
+### Let's connect
+
+Interested in full-stack engineering, business software, SaaS products, and practical AI integrations.
+
+[manuelmartinezdev.com.mx](https://manuelmartinezdev.com.mx) · [mjsifuentesmartinez@gmail.com](mailto:mjsifuentesmartinez@gmail.com)
